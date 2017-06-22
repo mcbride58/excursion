@@ -1,0 +1,30 @@
+html {
+  background-color: Black;
+  text-align: center;
+}
+p {
+  font-family: Verdana;
+  color: Gray;
+  font-size: 21px
+}
+h1 {
+  color: White;
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+}
+h2 {
+  color: White;
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 42px;
+}
+a.soon{
+  color: Aquamarine;
+  font-size: 16px;
+}
+p.footer {
+  font-size: 19;
+  color: Grey;
+  text-align: right;
+}
